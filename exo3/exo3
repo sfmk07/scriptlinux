@@ -1,3 +1,0 @@
-#!/bin/bash
-
-read -p "entrez un nom de fichier / " nom_fichier
