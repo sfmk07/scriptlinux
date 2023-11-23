@@ -1,5 +1,0 @@
-#!/bin/bash
-
-mkdir -p dossier1/{sous_dossier1,sous_dossier2,sous_dossier3}
-
-tree
